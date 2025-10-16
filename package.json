@@ -466,7 +466,7 @@
         "@types/glob": "^9.0.0",
         "@types/mocha": "^10.0.8",
         "@types/moment-duration-format": "^2.2.6",
-        "@types/node": "^24.7.2",
+        "@types/node": "^24.8.0",
         "@types/qs": "^6.9.16",
         "@types/vscode": "^1.85.0",
         "@typescript-eslint/eslint-plugin": "^8.11.0",
